@@ -1,7 +1,7 @@
 # Fala Dev!! Tudo beleza ?
 
 - 👨🏽‍💻 -  Eu me chamo [Priscila Aguiar](https://www.linkedin.com/in/priscila-aguiar-depaula/);
-- 💜 - Atualmente sou Tech Recruiter formada pela [QueryWork] (https://www.linkedin.com/company/lovel-dev/);
+- 💜 - Atualmente sou Tech Recruiter formada pela [QueryWork](https://www.linkedin.com/company/lovel-dev/);
 - 🦄 - Estou interessada em contratar os melhores talentos techs;
 - ✨ - [Entre em contato comigo](https://www.linkedin.com/in/priscila-aguiar-depaula/).
 
