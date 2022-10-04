@@ -1,18 +1,15 @@
 # Fala Dev!! Tudo beleza ?
 
-- 👨🏽‍💻 -  Eu me chamo [Paulo Pelaez](https://www.linkedin.com/in/paulopelaez);
-- 💜 - Atualmente sou Founder & CTO na [QueryWork](https://www.linkedin.com/company/querywork);
-- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
-- 💸 - Constantemente temos vagas para:
-- - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
-- - **Backend**: NestJs + PrismaIO + PostgreSQL;
-- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
+- 👨🏽‍💻 -  Eu me chamo [Priscila Aguiar](https://www.linkedin.com/in/priscila-aguiar-depaula/);
+- 💜 - Atualmente sou Tech Recruiter formada pela [QueryWork] (https://www.linkedin.com/company/lovel-dev/);
+- 🦄 - Estou interessada em contratar os melhores talentos techs;
+- ✨ - [Entre em contato comigo](https://www.linkedin.com/in/priscila-aguiar-depaula/).
 
 ##
 
 <div align="center">
-  <a href="https://github.com/paulopelaez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopelaez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/priscilaaguiar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilaaguiar&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopelaez&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
@@ -31,32 +28,15 @@
   
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCywV9Q7gvVNi-6bAJRomLPQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://instagram.com/paulopelaez" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
- 	<a href="https://www.twitch.tv/paulopelaez" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://discord.gg/paulopelaez" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="mailto:pelaez@querywork.com">
+ 
+  <a href="mailto:priscila.aguiarp@outlook.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
-  <a href="https://www.linkedin.com/in/paulopelaez" target="_blank">
+  <a href="https://www.linkedin.com/in/priscila-aguiar-depaula/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
-   <a href="https://wa.me/5585997464894" target="_blank">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a> 
  
   ![Snake animation](https://github.com/paulopelaez/paulopelaez/blob/output/github-grid-snake.svg)
  
